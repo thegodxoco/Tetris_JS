@@ -1,0 +1,40 @@
+body{
+    background-color: #9999FF;
+
+    
+}
+#pant > table{
+    background-color: #ffffff;
+}
+#pant{
+    /*margin-left:50%;*/
+    display: flex;
+    justify-content: center;
+}
+
+#start{
+    margin-left:45%;
+
+    
+}
+.fin{
+    display: none;
+}
+.b  {
+    background-color: blue;
+}
+.r{
+    background-color: red;
+}
+.g{
+    background-color: green;
+}
+.y{
+    background-color: yellow;
+}
+.gr{
+    background-color: grey;
+}
+.d{
+    background-color: #fff;;
+}
